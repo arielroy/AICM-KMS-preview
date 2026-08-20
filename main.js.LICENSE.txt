@@ -1,0 +1,133 @@
+/* NProgress, (c) 2013, 2014 Rico Sta. Cruz - http://ricostacruz.com/nprogress
+ * @license MIT */
+
+/*!
+
+JSZip v3.10.1 - A JavaScript class for generating and reading zip files
+<http://stuartk.com/jszip>
+
+(c) 2009-2016 Stuart Knightley <stuart [at] stuartk.com>
+Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip/main/LICENSE.markdown.
+
+JSZip uses the library pako released under the MIT license :
+https://github.com/nodeca/pako/blob/main/LICENSE
+*/
+
+/*!
+  * shared v11.1.7
+  * (c) 2025 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+  * vue-router v4.5.1
+  * (c) 2025 Eduardo San Martin Morote
+  * @license MIT
+  */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * devextreme-vue
+ * Version: 21.2.5
+ * Build date: Mon Jan 17 2022
+ *
+ * Copyright (c) 2012 - 2022 Developer Express Inc. ALL RIGHTS RESERVED
+ *
+ * This software may be modified and distributed under the terms
+ * of the MIT license. See the LICENSE file in the root of the project for details.
+ *
+ * https://github.com/DevExpress/devextreme-vue
+ */
+
+/*!
+ * pinia v2.3.1
+ * (c) 2025 Eduardo San Martin Morote
+ * @license MIT
+ */
+
+/*! #__NO_SIDE_EFFECTS__ */
+
+/*! Element Plus Icons Vue v2.3.1 */
+
+/*! ExcelJS 19-10-2023 */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/**
+ * Character class utilities for XML NS 1.0 edition 3.
+ *
+ * @author Louis-Dominique Dubeau
+ * @license MIT
+ * @copyright Louis-Dominique Dubeau
+ */
+
+/**
+ * Character classes and associated utilities for the 2nd edition of XML 1.1.
+ *
+ * @author Louis-Dominique Dubeau
+ * @license MIT
+ * @copyright Louis-Dominique Dubeau
+ */
+
+/**
+ * Character classes and associated utilities for the 5th edition of XML 1.0.
+ *
+ * @author Louis-Dominique Dubeau
+ * @license MIT
+ * @copyright Louis-Dominique Dubeau
+ */
+
+/**
+ * Checks if an event is supported in the current execution environment.
+ *
+ * NOTE: This will not work correctly for non-generic events such as `change`,
+ * `reset`, `load`, `error`, and `select`.
+ *
+ * Borrows from Modernizr.
+ *
+ * @param {string} eventNameSuffix Event name, e.g. "click".
+ * @param {?boolean} capture Check if the capture phase is supported.
+ * @return {boolean} True if the event is supported.
+ * @internal
+ * @license Modernizr 3.0.0pre (Custom Build) | MIT
+ */
+
+/**
+* @vue/runtime-core v3.5.31
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/runtime-dom v3.5.31
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/shared v3.5.31
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**!
+ * Sortable 1.15.2
+ * @author	RubaXa   <trash@rubaxa.org>
+ * @author	owenm    <owen23355@gmail.com>
+ * @license MIT
+ */
+
+/**!
+ * Sortable 1.15.6
+ * @author	RubaXa   <trash@rubaxa.org>
+ * @author	owenm    <owen23355@gmail.com>
+ * @license MIT
+ */
